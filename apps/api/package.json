@@ -10,8 +10,8 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "@mytheclipse/contracts": "workspace:*",
     "@hono/node-server": "latest",
+    "@mytheclipse/contracts": "workspace:*",
     "hono": "latest",
     "postgres": "latest",
     "zod": "^4.6.7"
